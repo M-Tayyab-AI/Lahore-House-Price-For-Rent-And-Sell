@@ -1,0 +1,18 @@
+Area Size:
+Marla
+
+Furnished:
+0-No
+1-Semi Furnished
+2-Yes
+
+Age:
+1- (0-5)Years
+2- (5-10)Years
+3- (10-20)Years
+4- (20-30)Years
+5- (30+)Years
+
+Price: 
+PKR in Crore
+

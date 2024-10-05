@@ -1,0 +1,10 @@
+Area Size:
+Marla
+
+Property Type:
+0-House
+1-Lower Portion
+2-Upper Portion
+
+Price: 
+PKR in Thousands
